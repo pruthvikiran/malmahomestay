@@ -265,7 +265,7 @@ input.search-form:hover {
 .navbar {
   border-radius: 0;
   margin-bottom: 0;
-  background: #151515;
+  background: #a7c5bf;
   padding: 15px 0;
   padding-bottom: 0;
 }
@@ -309,7 +309,7 @@ input.search-form:hover {
 .navbar-inverse .navbar-nav > .open > a,
 .navbar-inverse .navbar-nav > .open > a:hover,
 .navbar-inverse .navbar-nav > .open > a:focus {
-  background-color: #55a257;
+  background-color: #549c4f;
   color: #fff;
 }
 
